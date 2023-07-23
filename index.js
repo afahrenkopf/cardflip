@@ -2,7 +2,7 @@
 import './style.css';
 // Firebase App (the core Firebase SDK) is always required
 import { initializeApp } from 'firebase/app';
-
+console.log('ok');
 // Add the Firebase products and methods that you want to use
 import {
   getAuth,
